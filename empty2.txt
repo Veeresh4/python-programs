@@ -1,0 +1,2 @@
+Python syntax is familiar to english
+python is popular language
